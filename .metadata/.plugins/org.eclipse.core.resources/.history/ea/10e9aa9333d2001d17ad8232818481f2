@@ -1,0 +1,11 @@
+package teoria;
+
+public class UpcastingDowncasting {
+
+	public static void main(String[] args) {
+		//Upcasting
+		// - Casting da subclasse para superclasse
+
+	}
+
+}

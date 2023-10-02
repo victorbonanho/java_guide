@@ -1,0 +1,17 @@
+package entities;
+
+public class BusinessAccount extends Account {
+	
+	private Double loanLimimt;
+	
+	public BusinessAccount() { 
+		super();
+	}
+
+	public BusinessAccount(Integer number, String holder, Double balance, Double loanLimimt) {
+		super(number, holder, balance);
+		this.loanLimimt = loanLimimt;
+	}
+	
+	
+}

@@ -1,0 +1,26 @@
+package data_hora;
+
+public class Operacoes {
+
+	public static void main(String[] args) {
+		// INSTANCIAÇÃO
+		// (Agora) -> Data-hora
+		// Texto ISO 8601 ->  Data-hora
+		// Texto formato customizado -> Data-hora
+		// dia, mês, ano , [horário] -> Data-hora local
+		
+		//FORMATAÇÃO
+		//Data-hora -> Texto ISO 8601
+		
+		//OBTER DADOS DE UMA DATA-HORA LOCAL
+		// Data-hora local -> dia, mês, ano, horário
+		
+		//CONTERTER DATA-HORA GLOBAL PARA LOCAL
+		//Data-hora glgobal, timezone (sistema local) -> Data-hora local
+		
+		//CÁLCULOS COM DATA-HORA
+		//Data-hora +/- tempo -> Data-hora
+		//Data-hora 1, Data-hora 2 -> Duração
+	}
+
+}

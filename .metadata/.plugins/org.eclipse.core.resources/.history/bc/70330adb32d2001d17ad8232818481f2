@@ -1,0 +1,12 @@
+package teoria;
+
+public class heranca {
+
+	public static void main(String[] args) {
+		//Tipo de associação que permite que uma classe herde todos dados e comportamentos de outra
+		//Reuso
+		//Polimorfismo
+		//class A extends B
+	}
+
+}
